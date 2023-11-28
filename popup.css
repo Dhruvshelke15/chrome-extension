@@ -1,0 +1,13 @@
+body {
+    width: 200px;
+    padding: 10px;
+  }
+  
+  select {
+    margin-bottom: 10px;
+  }
+  
+  #ageResult {
+    margin-top: 10px;
+  }
+  

@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Profile Age Extension",
+    "version": "1.0",
+    "description": "Chrome extension to get approximate age from profiles",
+    "permissions": ["activeTab", "storage"],
+    "host_permissions": [
+        "https://localhost:5000/"
+      ]
+  }
+  
